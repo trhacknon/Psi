@@ -5,8 +5,8 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/)
+[![https://telegram.me/](https://img.shields.io/badge/Telegram-@trhacknon-blue.svg?style=flat-square)](https://telegram.me/)
 
 </div>
 
@@ -24,7 +24,7 @@
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
  ### Run on your Local Machine
  * You need to have `Node.js` installed.
- 1. Clone the repo using `git clone https://github.com/Th30neAnd0nly/Psi`
+ 1. Clone the repo using `git clone https://github.com/trhacknon/Psi`
  1. `cd Psi`
  1. `npm install` 
  1. `npm start`
@@ -73,9 +73,9 @@ redirectURL: "https://xxxxxxx.xxx"
  * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/stargazers)
+[![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/trhacknon/Psi/stargazers)
 
-[![Forkers repo roster for @th30neand0nly/Psi](https://reporoster.com/forks/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/network/members)
+[![Forkers repo roster for @th30neand0nly/Psi](https://reporoster.com/forks/dark/trhacknon/Psi)](https://github.com/trhacknon/Psi/network/members)
 
 ## DISCLAIMER
 <p align="center">
